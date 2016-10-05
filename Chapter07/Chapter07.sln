@@ -1,0 +1,77 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FtpWebRequest", "FTP\FtpWebRequest\FtpWebRequest.csproj", "{CE3476CF-DCB4-4A7F-8076-B6C539A20A08}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClient", "FTP\TestClient\TestClient.csproj", "{7FE26D89-89F8-4E0D-BB63-CE57ACE7BE32}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailClient", "MailClient\MailClient.csproj", "{46B04B86-A38C-452D-AF7E-B3EBA20B6BB1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoClient", "Multithread\EchoClient\EchoClient.csproj", "{6DBB96CE-BE4E-4244-90A9-82067E6A0057}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEchoServer", "Multithread\MEchoServer\MEchoServer.csproj", "{6F3CA2F8-5BDF-4F86-9F24-6D27AD49CC8F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApp", "Remoting\ClientApp\ClientApp.csproj", "{DCDC07A9-EFBD-4647-B4B5-FFB92AFE9BB1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerApp", "Remoting\ServerApp\ServerApp.csproj", "{D61C8388-F681-4F39-AD54-65A6B8E0F5C8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerObj", "Remoting\ServerObj\ServerObj.csproj", "{4A24850F-A3A2-4B23-9773-B1223927660F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CE3476CF-DCB4-4A7F-8076-B6C539A20A08}.Debug.ActiveCfg = Debug|.NET
+		{CE3476CF-DCB4-4A7F-8076-B6C539A20A08}.Debug.Build.0 = Debug|.NET
+		{CE3476CF-DCB4-4A7F-8076-B6C539A20A08}.Release.ActiveCfg = Release|.NET
+		{CE3476CF-DCB4-4A7F-8076-B6C539A20A08}.Release.Build.0 = Release|.NET
+		{7FE26D89-89F8-4E0D-BB63-CE57ACE7BE32}.Debug.ActiveCfg = Debug|.NET
+		{7FE26D89-89F8-4E0D-BB63-CE57ACE7BE32}.Debug.Build.0 = Debug|.NET
+		{7FE26D89-89F8-4E0D-BB63-CE57ACE7BE32}.Release.ActiveCfg = Release|.NET
+		{7FE26D89-89F8-4E0D-BB63-CE57ACE7BE32}.Release.Build.0 = Release|.NET
+		{46B04B86-A38C-452D-AF7E-B3EBA20B6BB1}.Debug.ActiveCfg = Debug|.NET
+		{46B04B86-A38C-452D-AF7E-B3EBA20B6BB1}.Debug.Build.0 = Debug|.NET
+		{46B04B86-A38C-452D-AF7E-B3EBA20B6BB1}.Release.ActiveCfg = Release|.NET
+		{46B04B86-A38C-452D-AF7E-B3EBA20B6BB1}.Release.Build.0 = Release|.NET
+		{6DBB96CE-BE4E-4244-90A9-82067E6A0057}.Debug.ActiveCfg = Debug|.NET
+		{6DBB96CE-BE4E-4244-90A9-82067E6A0057}.Debug.Build.0 = Debug|.NET
+		{6DBB96CE-BE4E-4244-90A9-82067E6A0057}.Release.ActiveCfg = Release|.NET
+		{6DBB96CE-BE4E-4244-90A9-82067E6A0057}.Release.Build.0 = Release|.NET
+		{6F3CA2F8-5BDF-4F86-9F24-6D27AD49CC8F}.Debug.ActiveCfg = Debug|.NET
+		{6F3CA2F8-5BDF-4F86-9F24-6D27AD49CC8F}.Debug.Build.0 = Debug|.NET
+		{6F3CA2F8-5BDF-4F86-9F24-6D27AD49CC8F}.Release.ActiveCfg = Release|.NET
+		{6F3CA2F8-5BDF-4F86-9F24-6D27AD49CC8F}.Release.Build.0 = Release|.NET
+		{DCDC07A9-EFBD-4647-B4B5-FFB92AFE9BB1}.Debug.ActiveCfg = Debug|.NET
+		{DCDC07A9-EFBD-4647-B4B5-FFB92AFE9BB1}.Debug.Build.0 = Debug|.NET
+		{DCDC07A9-EFBD-4647-B4B5-FFB92AFE9BB1}.Release.ActiveCfg = Release|.NET
+		{DCDC07A9-EFBD-4647-B4B5-FFB92AFE9BB1}.Release.Build.0 = Release|.NET
+		{D61C8388-F681-4F39-AD54-65A6B8E0F5C8}.Debug.ActiveCfg = Debug|.NET
+		{D61C8388-F681-4F39-AD54-65A6B8E0F5C8}.Debug.Build.0 = Debug|.NET
+		{D61C8388-F681-4F39-AD54-65A6B8E0F5C8}.Release.ActiveCfg = Release|.NET
+		{D61C8388-F681-4F39-AD54-65A6B8E0F5C8}.Release.Build.0 = Release|.NET
+		{4A24850F-A3A2-4B23-9773-B1223927660F}.Debug.ActiveCfg = Debug|.NET
+		{4A24850F-A3A2-4B23-9773-B1223927660F}.Debug.Build.0 = Debug|.NET
+		{4A24850F-A3A2-4B23-9773-B1223927660F}.Release.ActiveCfg = Release|.NET
+		{4A24850F-A3A2-4B23-9773-B1223927660F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

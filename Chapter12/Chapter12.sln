@@ -1,0 +1,85 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DES", "DES\DES.csproj", "{F7342EB7-CBD1-4DD2-9183-86EAAA222C47}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hash", "Hash\Hash.csproj", "{D79DB3C8-0EED-449D-A178-B5DF9F1FAACB}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyedHash", "KeyedHash\KeyedHash.csproj", "{9AD4ADBB-A4D3-4C62-9F2C-1ABED60D958F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5Auth", "MD5Auth\MD5Auth.csproj", "{2C8DA614-15D9-4105-8DBD-FC65B1B351DD}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA", "RSA\RSA.csproj", "{12BD5921-7ADC-48CB-BDBB-0BCC4E38FBB0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP.Secure.RSA.ChatApp", "UDPSecureChatRSA\UDP.Secure.RSA.ChatApp.csproj", "{733DE283-CC93-45CE-8A03-B7F3D5F3CB1F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP.Secure.Rijndael.ChatApp", "UDPSecureRijndael\UDP.Secure.Rijndael.ChatApp.csproj", "{0C51456A-C62B-4459-A514-3C9ADACEF671}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X509", "X509\X509.csproj", "{FB355DBB-CFFD-4E1C-B392-CAD781A0ECD8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F7342EB7-CBD1-4DD2-9183-86EAAA222C47}.Debug.ActiveCfg = Debug|.NET
+		{F7342EB7-CBD1-4DD2-9183-86EAAA222C47}.Debug.Build.0 = Debug|.NET
+		{F7342EB7-CBD1-4DD2-9183-86EAAA222C47}.Release.ActiveCfg = Release|.NET
+		{F7342EB7-CBD1-4DD2-9183-86EAAA222C47}.Release.Build.0 = Release|.NET
+		{D79DB3C8-0EED-449D-A178-B5DF9F1FAACB}.Debug.ActiveCfg = Debug|.NET
+		{D79DB3C8-0EED-449D-A178-B5DF9F1FAACB}.Debug.Build.0 = Debug|.NET
+		{D79DB3C8-0EED-449D-A178-B5DF9F1FAACB}.Release.ActiveCfg = Release|.NET
+		{D79DB3C8-0EED-449D-A178-B5DF9F1FAACB}.Release.Build.0 = Release|.NET
+		{9AD4ADBB-A4D3-4C62-9F2C-1ABED60D958F}.Debug.ActiveCfg = Debug|.NET
+		{9AD4ADBB-A4D3-4C62-9F2C-1ABED60D958F}.Debug.Build.0 = Debug|.NET
+		{9AD4ADBB-A4D3-4C62-9F2C-1ABED60D958F}.Release.ActiveCfg = Release|.NET
+		{9AD4ADBB-A4D3-4C62-9F2C-1ABED60D958F}.Release.Build.0 = Release|.NET
+		{2C8DA614-15D9-4105-8DBD-FC65B1B351DD}.Debug.ActiveCfg = Debug|.NET
+		{2C8DA614-15D9-4105-8DBD-FC65B1B351DD}.Debug.Build.0 = Debug|.NET
+		{2C8DA614-15D9-4105-8DBD-FC65B1B351DD}.Release.ActiveCfg = Release|.NET
+		{2C8DA614-15D9-4105-8DBD-FC65B1B351DD}.Release.Build.0 = Release|.NET
+		{12BD5921-7ADC-48CB-BDBB-0BCC4E38FBB0}.Debug.ActiveCfg = Debug|.NET
+		{12BD5921-7ADC-48CB-BDBB-0BCC4E38FBB0}.Debug.Build.0 = Debug|.NET
+		{12BD5921-7ADC-48CB-BDBB-0BCC4E38FBB0}.Release.ActiveCfg = Release|.NET
+		{12BD5921-7ADC-48CB-BDBB-0BCC4E38FBB0}.Release.Build.0 = Release|.NET
+		{733DE283-CC93-45CE-8A03-B7F3D5F3CB1F}.Debug.ActiveCfg = Debug|.NET
+		{733DE283-CC93-45CE-8A03-B7F3D5F3CB1F}.Debug.Build.0 = Debug|.NET
+		{733DE283-CC93-45CE-8A03-B7F3D5F3CB1F}.Release.ActiveCfg = Release|.NET
+		{733DE283-CC93-45CE-8A03-B7F3D5F3CB1F}.Release.Build.0 = Release|.NET
+		{0C51456A-C62B-4459-A514-3C9ADACEF671}.Debug.ActiveCfg = Debug|.NET
+		{0C51456A-C62B-4459-A514-3C9ADACEF671}.Debug.Build.0 = Debug|.NET
+		{0C51456A-C62B-4459-A514-3C9ADACEF671}.Release.ActiveCfg = Release|.NET
+		{0C51456A-C62B-4459-A514-3C9ADACEF671}.Release.Build.0 = Release|.NET
+		{FB355DBB-CFFD-4E1C-B392-CAD781A0ECD8}.Debug.ActiveCfg = Debug|.NET
+		{FB355DBB-CFFD-4E1C-B392-CAD781A0ECD8}.Debug.Build.0 = Debug|.NET
+		{FB355DBB-CFFD-4E1C-B392-CAD781A0ECD8}.Release.ActiveCfg = Release|.NET
+		{FB355DBB-CFFD-4E1C-B392-CAD781A0ECD8}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(SolutionItems) = postSolution
+		DB\DBAuth.mdb = DB\DBAuth.mdb
+		www\Default.Aspx = www\Default.Aspx
+		RSA\PublicAndPrivateParameters.xml = RSA\PublicAndPrivateParameters.xml
+		RSA\PublicParameters.xml = RSA\PublicParameters.xml
+		www\tcpTrace.exe = www\tcpTrace.exe
+		X509\test.cer = X509\test.cer
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

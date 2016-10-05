@@ -1,0 +1,22 @@
+<Mime>
+   <Values>
+      <Ext>.htm</Ext> 
+      <Type>text/html</Type> 
+   </Values>
+   <Values>
+      <Ext>.html</Ext> 
+      <Type>text/html</Type> 
+   </Values>
+   <Values>
+      <Ext>.aspx</Ext> 
+      <Type>text/html</Type> 
+   </Values>
+   <Values>
+      <Ext>.gif</Ext> 
+      <Type>image/gif</Type> 
+   </Values>
+   <Values>
+      <Ext>.jpg</Ext> 
+      <Type>image/jpg</Type> 
+   </Values>
+</Mime>

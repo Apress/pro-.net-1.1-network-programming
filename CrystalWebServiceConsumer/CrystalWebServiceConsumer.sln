@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalWebServiceConsumer", "CrystalWebServiceConsumer.csproj", "{9D424D71-06DA-4704-B154-2B4FB9188F62}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9D424D71-06DA-4704-B154-2B4FB9188F62}.Debug.ActiveCfg = Debug|.NET
+		{9D424D71-06DA-4704-B154-2B4FB9188F62}.Debug.Build.0 = Debug|.NET
+		{9D424D71-06DA-4704-B154-2B4FB9188F62}.Release.ActiveCfg = Release|.NET
+		{9D424D71-06DA-4704-B154-2B4FB9188F62}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

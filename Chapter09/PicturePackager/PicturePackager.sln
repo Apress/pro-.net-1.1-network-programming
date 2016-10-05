@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicturePackager", "PicturePackager.csproj", "{481CA580-64F4-4CAE-A0EF-39D4D105B597}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{481CA580-64F4-4CAE-A0EF-39D4D105B597}.Debug.ActiveCfg = Debug|.NET
+		{481CA580-64F4-4CAE-A0EF-39D4D105B597}.Debug.Build.0 = Debug|.NET
+		{481CA580-64F4-4CAE-A0EF-39D4D105B597}.Release.ActiveCfg = Release|.NET
+		{481CA580-64F4-4CAE-A0EF-39D4D105B597}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crystal App", "Crystal App.csproj", "{B04297CB-67C1-42EA-9635-DD804233EEBE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B04297CB-67C1-42EA-9635-DD804233EEBE}.Debug.ActiveCfg = Debug|.NET
+		{B04297CB-67C1-42EA-9635-DD804233EEBE}.Debug.Build.0 = Debug|.NET
+		{B04297CB-67C1-42EA-9635-DD804233EEBE}.Release.ActiveCfg = Release|.NET
+		{B04297CB-67C1-42EA-9635-DD804233EEBE}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

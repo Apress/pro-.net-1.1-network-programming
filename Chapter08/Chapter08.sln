@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileTransferClient", "FileTransferClient\FileTransferClient.csproj", "{F168CB0E-9ED7-4F7F-A405-9DDB857D43D1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileTransferServer", "FileTransferServer\FileTransferServer.csproj", "{BC33908E-2B70-4ADC-A33A-7C0E8A25ADEE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpChat", "UdpChat\UdpChat.csproj", "{6CF4FF3E-3E0F-4D1C-88F7-5CFBD1D3A639}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F168CB0E-9ED7-4F7F-A405-9DDB857D43D1}.Debug.ActiveCfg = Debug|.NET
+		{F168CB0E-9ED7-4F7F-A405-9DDB857D43D1}.Debug.Build.0 = Debug|.NET
+		{F168CB0E-9ED7-4F7F-A405-9DDB857D43D1}.Release.ActiveCfg = Release|.NET
+		{F168CB0E-9ED7-4F7F-A405-9DDB857D43D1}.Release.Build.0 = Release|.NET
+		{BC33908E-2B70-4ADC-A33A-7C0E8A25ADEE}.Debug.ActiveCfg = Debug|.NET
+		{BC33908E-2B70-4ADC-A33A-7C0E8A25ADEE}.Debug.Build.0 = Debug|.NET
+		{BC33908E-2B70-4ADC-A33A-7C0E8A25ADEE}.Release.ActiveCfg = Release|.NET
+		{BC33908E-2B70-4ADC-A33A-7C0E8A25ADEE}.Release.Build.0 = Release|.NET
+		{6CF4FF3E-3E0F-4D1C-88F7-5CFBD1D3A639}.Debug.ActiveCfg = Debug|.NET
+		{6CF4FF3E-3E0F-4D1C-88F7-5CFBD1D3A639}.Debug.Build.0 = Debug|.NET
+		{6CF4FF3E-3E0F-4D1C-88F7-5CFBD1D3A639}.Release.ActiveCfg = Release|.NET
+		{6CF4FF3E-3E0F-4D1C-88F7-5CFBD1D3A639}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

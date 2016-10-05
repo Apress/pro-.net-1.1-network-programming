@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FtpWebRequest", "FtpWebRequest.csproj", "{CE3476CF-DCB4-4A7F-8076-B6C539A20A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClient", "..\TestClient\TestClient.csproj", "{7FE26D89-89F8-4E0D-BB63-CE57ACE7BE32}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CE3476CF-DCB4-4A7F-8076-B6C539A20A08}.Debug.ActiveCfg = Debug|.NET
+		{CE3476CF-DCB4-4A7F-8076-B6C539A20A08}.Debug.Build.0 = Debug|.NET
+		{CE3476CF-DCB4-4A7F-8076-B6C539A20A08}.Release.ActiveCfg = Release|.NET
+		{CE3476CF-DCB4-4A7F-8076-B6C539A20A08}.Release.Build.0 = Release|.NET
+		{7FE26D89-89F8-4E0D-BB63-CE57ACE7BE32}.Debug.ActiveCfg = Debug|.NET
+		{7FE26D89-89F8-4E0D-BB63-CE57ACE7BE32}.Debug.Build.0 = Debug|.NET
+		{7FE26D89-89F8-4E0D-BB63-CE57ACE7BE32}.Release.ActiveCfg = Release|.NET
+		{7FE26D89-89F8-4E0D-BB63-CE57ACE7BE32}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

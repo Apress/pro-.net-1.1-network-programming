@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIOPDemo", "FileIOPDemo\FileIOPDemo.csproj", "{F080A6EE-27E0-4F32-BD21-EA42808B94DF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIOPDemo2", "FileIOPDemo2\FileIOPDemo2.csproj", "{40C8BEC8-963A-4C8A-AC7A-6579B2B16C92}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F080A6EE-27E0-4F32-BD21-EA42808B94DF}.Debug.ActiveCfg = Debug|.NET
+		{F080A6EE-27E0-4F32-BD21-EA42808B94DF}.Debug.Build.0 = Debug|.NET
+		{F080A6EE-27E0-4F32-BD21-EA42808B94DF}.Release.ActiveCfg = Release|.NET
+		{F080A6EE-27E0-4F32-BD21-EA42808B94DF}.Release.Build.0 = Release|.NET
+		{40C8BEC8-963A-4C8A-AC7A-6579B2B16C92}.Debug.ActiveCfg = Debug|.NET
+		{40C8BEC8-963A-4C8A-AC7A-6579B2B16C92}.Debug.Build.0 = Debug|.NET
+		{40C8BEC8-963A-4C8A-AC7A-6579B2B16C92}.Release.ActiveCfg = Release|.NET
+		{40C8BEC8-963A-4C8A-AC7A-6579B2B16C92}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

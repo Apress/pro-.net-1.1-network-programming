@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastChat", "MulticastChat.csproj", "{25132C24-4BD2-413E-B2AA-19C2B1E3F813}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{25132C24-4BD2-413E-B2AA-19C2B1E3F813}.Debug.ActiveCfg = Debug|.NET
+		{25132C24-4BD2-413E-B2AA-19C2B1E3F813}.Debug.Build.0 = Debug|.NET
+		{25132C24-4BD2-413E-B2AA-19C2B1E3F813}.Release.ActiveCfg = Release|.NET
+		{25132C24-4BD2-413E-B2AA-19C2B1E3F813}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
